@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="anatherbackround">#1B1B1B</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="clowndis">#FFA922</color>
+    <color name="clownic">#FEBD57</color>
+    <color name="acmor">#143264</color>
+    <color name="kapmor">#0a1932</color>
+    <color name="acyes">#00695D</color>
+    <color name="kapyes">#005E58</color>
+    <color name="ackah">#7E3C00</color>
+    <color name="kapkah">#653800</color>
+    <color name="countdis">#FF76A0</color>
+    <color name="countic">#F36892</color>
+
+    <color name="cavarlydis">#18C9B9</color>
+    <color name="cavarlyic">#48D0C6</color>
+
+    <color name="djdis">#5CBFFF</color>
+    <color name="djic">#4BB2F4</color>
+
+    <color name="dismor">#B16FED</color>
+    <color name="icmor">#A461E2</color>
+    <color name="diskir">#FF5256</color>
+    <color name="ickir">#FD747B</color>
+
+
+    <color name="disdukes">#797EFE</color>
+    <color name="icdukes">#676EF3</color>
+    <color name="disemergency">#FF9065</color>
+    <color name="icemergency">#F78159</color>
+
+
+    <color name="searchColor">#606060</color>
+    <color name="searchTextColor">#635F5F</color>
+    <color name="searchBoxColor">#B4F2FC</color>
+
+
+    </resources>
